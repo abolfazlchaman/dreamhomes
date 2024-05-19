@@ -41,7 +41,7 @@ export default function Header() {
         </div>
       </div>
       <div className="flex flex-col gap-2 items-start">
-        <span className="font-normal text-[#fff7ee] mt-[18vh] lg:text-[64px] md:text-[36px] text-[30px] md:max-w-full md:leading-[70px] text-center drop-shadow-2xl bg-black bg-opacity-15 w-full">
+        <span className="font-normal text-[#fff7ee] mt-[40vh] lg:mt-[18vh] lg:text-[64px] md:text-[36px] text-[30px] md:max-w-full md:leading-[70px] text-center drop-shadow-2xl bg-black bg-opacity-45 py-8 w-full">
           Your Most Trusted Real Agency Group!
         </span>
       </div>

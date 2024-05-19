@@ -13,8 +13,8 @@ export default function Featured() {
       <div className="flex flex-col items-center gap-2">
         <div className="font-semibold text-[28px] text-[#416477]">Featured Listings</div>
         <p className="font-light text-[15px] text-gray-600 text-center">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat consequatur, consequuntur
-          reiciendis at exercitationem.
+          Discover our handpicked selection of featured homes, showcasing the finest properties
+          available. Find your dream home today.
         </p>
       </div>
       <div className="w-full flex md:flex-row flex-col items-start gap-4 md:h-[650px] h-[900px]">

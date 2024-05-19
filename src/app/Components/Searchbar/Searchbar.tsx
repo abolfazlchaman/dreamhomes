@@ -7,9 +7,8 @@ export default function SearchBar() {
       <div className="flex flex-col items-center gap-2">
         <div className="font-semibold text-white text-[28px]">Search Our Listings</div>
         <p className="font-light text-[15px] text-gray-200 text-center">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio animi maiores sapiente,
-          distinctio architecto fugit vel optio. Repudiandae corporis temporibus reiciendis
-          repellendus sapiente error aut deleniti tempora in perferendis? Tempora?
+          Looking to buy, invest, or rent? Our expert team offers personalized service to help you
+          find a home that suits you perfectly.
         </p>
       </div>
       <div className="flex items-center md:flex-row flex-col w-full px-3 py-2 border border-r-gray-300 rounded-lg bg-white">
