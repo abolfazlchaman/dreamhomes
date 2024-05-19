@@ -1,7 +1,5 @@
 import Head from "next/head";
 import "./globals.css";
-import Header from "./Components/Header/Header";
-import Searchbar from "./Components/Searchbar/Searchbar";
 
 export const metadata = {
   title: "Dream homes | Top notch real-state",
@@ -58,8 +56,6 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
         />
       </Head>
       <body>
-        <Header />
-        <Searchbar />
         {children}
       </body>
     </html>
