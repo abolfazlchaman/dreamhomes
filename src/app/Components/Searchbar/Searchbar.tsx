@@ -1,7 +1,7 @@
 import React from "react";
 import { IoSearchOutline } from "react-icons/io5";
 
-export default function Searchbar() {
+export default function SearchBar() {
   return (
     <div className="w-full lg:px-[150px] px-5 flex flex-col items-center justify-center py-16 gap-10 bg-[#1d1d1d]">
       <div className="flex flex-col items-center gap-2">
