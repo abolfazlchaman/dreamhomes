@@ -1,9 +1,12 @@
+import React from 'react';
+import { FaSmile, FaAward, FaClock, FaBuilding } from 'react-icons/fa';
+
 const Trusted = () => {
 	const items = [
-		{ title: "Satisfied Customers", value: "700+" },
-		{ title: "Selling Awards Won", value: "8+" },
-		{ title: "Years Experience", value: "25+" },
-		{ title: "Properties Collection", value: "19+" },
+		{ title: "Satisfied Customers", value: "700+", icon: <FaSmile /> },
+		{ title: "Awards Earned", value: "8+", icon: <FaAward /> },
+		{ title: "Years of Experience", value: "25+", icon: <FaClock /> },
+		{ title: "Property Collection", value: "19+", icon: <FaBuilding /> },
 	];
 	return (
 		<div className="w-full lg:px-[150px] px-5 flex flex-col items-center justify-center pt-8 pb-16 gap-10">
@@ -23,6 +26,7 @@ const Trusted = () => {
 						className="flex flex-col gap-3 text-center w-full rounded-lg bg-gray-200 py-3 shadow-sm"
 					>
 						<span className="text-[#416477] text-[40px] font-semibold">{item.value}</span>
+						<span className="text-[#416477] flex justify-center text-[40px]">{item.icon}</span>
 						<span className="text-gray-800">{item.title}</span>
 					</div>
 				))}
