@@ -1,11 +1,11 @@
 import { MdOutlineVilla } from "react-icons/md";
 import Header from "./Components/Header/Header";
-import SearchBar from "./Components/SearchBar/SearchBar";
 import Featured from "./Components/Featured/Featured";
 import Trusted from "./Components/Trusted/Trusted";
 import Latest from "./Components/Latest/Latest";
 import Banner from "./Components/Banner/Banner";
 import Footer from "./Components/Footer/Footer";
+import SearchBar from "./Components/SearchBar/SearchBar";
 
 export default function Home() {
   return (
