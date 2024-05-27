@@ -1,11 +1,11 @@
 import { MdOutlineVilla } from "react-icons/md";
-import Header from "./Components/Header/Header";
-import Featured from "./Components/Featured/Featured";
-import Trusted from "./Components/Trusted/Trusted";
-import Latest from "./Components/Latest/Latest";
-import Banner from "./Components/Banner/Banner";
-import Footer from "./Components/Footer/Footer";
-import SearchBar from "./Components/SearchBar/SearchBar";
+import Header from "@/app/Components/Header/Header";
+import Featured from "@/app/Components/Featured/Featured";
+import Trusted from "@/app/Components/Trusted/Trusted";
+import Latest from "@/app/Components/Latest/Latest";
+import Banner from "@/app/Components/Banner/Banner";
+import Footer from "@/app/Components/Footer/Footer";
+import SearchBar from "@/app/Components/SearchBar/SearchBar";
 
 export default function Home() {
   return (
