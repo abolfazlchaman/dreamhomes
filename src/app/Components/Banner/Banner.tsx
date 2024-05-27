@@ -15,7 +15,7 @@ const Banner = () => {
               We Will Find The Perfect Places For You!
             </span>
             <p className="mt-3 text-gray-200 max-w-[500px] lg:text-left text-justify">
-              Whether you're looking to buy your first home, invest in a property, or find the
+              Whether you&#39;re looking to buy your first home, invest in a property, or find the
               perfect rental, our team is here to guide you every step of the way. With extensive
               knowledge of the real estate market, we provide personalized service to help you find
               a place that truly feels like home.
