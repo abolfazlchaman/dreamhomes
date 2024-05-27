@@ -29,4 +29,4 @@ Developed and Maintained by [Abolfazl Chaman](http://abolfazlchaman.ir).
 
 ---
 
-&copy; Dream Homes LLC. {new Date().getFullYear()}. All rights reserved.
+&copy; Dream Homes LLC. All rights reserved.
