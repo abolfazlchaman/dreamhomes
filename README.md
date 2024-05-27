@@ -1,6 +1,7 @@
 # Dream Homes
 
 ![Dream Homes Icon](./public/android-chrome-192x192.png)
+Preview Available at [https://dream--homes.vercel.app/](https://dream--homes.vercel.app/)
 
 ## Overview
 
