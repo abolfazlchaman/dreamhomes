@@ -13,3 +13,6 @@ body{
   overflow-x: hidden;
   background-color: #fff;
 }
+:root,html{
+  scroll-behavior: smooth;
+}
