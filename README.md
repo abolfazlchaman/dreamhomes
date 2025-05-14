@@ -1,11 +1,11 @@
-# Dream Homes
+# DreamGem Homes
 
-![Dream Homes Icon](./public/android-chrome-192x192.png)
-Preview Available at [https://dream--homes.vercel.app/](https://dream--homes.vercel.app/)
+![DreamGem Homes Icon](./public/android-chrome-192x192.png)
+Preview Available at [https://dreamgem.homes/](https://dreamgem.homes/)
 
 ## Overview
 
-**Dream Homes** is your go-to platform for finding your perfect home. This app is a Progressive Web Application (PWA), providing a seamless and responsive user experience across all devices. Whether you're looking for a cozy apartment or a luxurious villa, Dream Homes has you covered. Our platform features the latest listings, trusted agents, and comprehensive search capabilities to help you find your dream home.
+**DreamGem Homes** is your go-to platform for finding your perfect home. This app is a Progressive Web Application (PWA), providing a seamless and responsive user experience across all devices. Whether you're looking for a cozy apartment or a luxurious villa, DreamGem Homes has you covered. Our platform features the latest listings, trusted agents, and comprehensive search capabilities to help you find your dream home.
 
 ## Features
 
@@ -29,4 +29,4 @@ Developed and Maintained by [Abolfazl Chaman](http://abolfazlchaman.ir).
 
 ---
 
-&copy; Dream Homes LLC. All rights reserved.
+&copy; DreamGem Homes LLC. All rights reserved.
